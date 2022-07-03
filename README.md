@@ -134,6 +134,7 @@ E abra-o em um emulador configurado em seu computador utilizando os comandos pre
 <table>
   <tr>
     <td>
+       <p dir="auto" align="center">
       <a 
          href="https://github.com/diegodls/nlw_return_22-05/blob/assets/web.png" 
          target="_blank" 
@@ -146,8 +147,10 @@ E abra-o em um emulador configurado em seu computador utilizando os comandos pre
            style="width="300" height="300""/></br>
         Expandir
       </a>
+   </p>
     </td>
      <td>
+   <div dir="auto" align="center">
        <a href="https://github.com/diegodls/nlw_return_22-05/blob/assets/mobile.png" 
           target="_blank"
           alt="Versão mobile" 
@@ -160,6 +163,7 @@ E abra-o em um emulador configurado em seu computador utilizando os comandos pre
               style="width="300" height="300""/></br>
          Expandir
        </a>
+   </div>
     </td>
   <tr>
 <table>
