@@ -8,7 +8,7 @@
      alt="NLW Return - teste já" 
      title="NLW Return - teste já"
      style="max-width: 100%; height="80"" 
-     src="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/icon.png?raw=true"/>
+     src="https://github.com/diegodls/nlw_return_22-05/blob/assets/icon.png?raw=true"/>
 </a>  
 </h1>
 <p dir="auto" align="center">
@@ -16,11 +16,11 @@
     target="_blank"
     alt="Cover"
     title="Cover"
-    href="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/web-gif.gif?raw=true"
+    href="https://github.com/diegodls/nlw_return_22-05/blob/assets/web-gif.gif?raw=true"
   >
     <img alt="Cover" title="Cover"
     style="max-width: 100%; height="80""
-    src="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/web-gif.gif?raw=true"/>
+    src="https://github.com/diegodls/nlw_return_22-05/blob/assets/web-gif.gif?raw=true"/>
   Expandir
     </a>
 </p>
@@ -135,12 +135,12 @@ E abra-o em um emulador configurado em seu computador utilizando os comandos pre
   <tr>
     <td>
       <a 
-         href="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/web.png" 
+         href="https://github.com/diegodls/nlw_return_22-05/blob/assets/web.png" 
          target="_blank" 
          alt="Versão web" 
          title="Versão web">
         <img 
-           src="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/web.png?raw=true" 
+           src="https://github.com/diegodls/nlw_return_22-05/blob/assets/web.png?raw=true" 
            alt="Versão web" 
            title="Versão web" 
            style="width="300" height="300""/>
@@ -148,13 +148,13 @@ E abra-o em um emulador configurado em seu computador utilizando os comandos pre
       </a>
     </td>
      <td>
-       <a href="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/mobile.png" 
+       <a href="https://github.com/diegodls/nlw_return_22-05/blob/assets/mobile.png" 
           target="_blank"
           alt="Versão mobile" 
           title="Versão mobile"
           >
          <img 
-              src="https://github.com/diegodls/nlw_return_22-05/blob/readme_assets/mobile.png?raw=true" 
+              src="https://github.com/diegodls/nlw_return_22-05/blob/assets/mobile.png?raw=true" 
               alt="Versão mobile" 
               title="Versão mobile"
               style="width="300" height="300""/>
