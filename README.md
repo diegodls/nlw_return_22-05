@@ -38,7 +38,7 @@ Você pode testar o projeto **[clicando aqui](http://nlw-return-22-05.vercel.app
   <li>React Native</li>
   <li>Expo</li>
   <li>Typescript</li>
-  <li>Tawilwind</li>
+  <li>Tailwindcss</li>
   <li>Axios</li>
   <li>Express</li>
   <li>Jest</li>
